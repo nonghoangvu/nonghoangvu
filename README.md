@@ -22,6 +22,7 @@
 <p align="left">
 <a href="https://fb.com/nonghoangvu04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nonghoangvu04" height="30" width="40" /></a>
 <a href="https://instagram.com/nonghoangvu.fpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nonghoangvu.fpt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nonghoangvu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube" alt="nonghoangvu.fpt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
