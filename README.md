@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Spring Boot, MySQL, SQL Server, Servlet, Hibernate, JDBC, Java Swing**
 
-- 📫 How to reach me **vunhph33506@fpt.edu.vn**
+- 📫 How to reach me **nonghoangvu04@gmail.com**
 
 - ⚡ Fun fact **I'm funny**
 
