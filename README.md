@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **FPT Software**
 
-- 🌱 I’m currently learning **FPT Polytechnic**
+- 🌱 I’m currently learning **FPT University**
 
 - 👯 I’m looking to collaborate on **Github**
 
