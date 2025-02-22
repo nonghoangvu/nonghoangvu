@@ -18,6 +18,55 @@
 
 ###
 
+<h4 align="left">👨🏼‍💻 About me:</h4>
+
+###
+
+<h5 align="left">🔭 I’m currently working on FPT Software</h5>
+
+###
+
+<h5 align="left">🌱 I’m currently learning FPT University</h5>
+
+###
+
+<h5 align="left">👨🏼‍💻 working as a java developer since 2022</h5>
+
+###
+
+<h5 align="left">📫 How to reach me <i>nonghoangvu04@gmail.com</i></h5>
+
+###
+
+<h5 align="left">🎬 just started out with my youtube channel JavaTech</h5>
+
+###
+
+<h5 align="left">⚡ Fun fact I'm funny</h5>
+
+###
+
+<h4 align="left">🌎 Social network:</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@javatech04/?sub_confirmation=1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.facebook.com/NongHoangVu04" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nonghoangvu04" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/nonghoangvu04" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
 <h4 align="left">💻 Tech Stack:</h4>
 
 ###
@@ -57,59 +106,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
-
-###
-
-<h4 align="left">🌎 Social network:</h4>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@javatech04/?sub_confirmation=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.facebook.com/NongHoangVu04" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nonghoangvu04" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/nonghoangvu04" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<h4 align="left">👨🏼‍💻 About me:</h4>
-
-###
-
-<h5 align="left">🔭 I’m currently working on FPT Software</h5>
-
-###
-
-<h5 align="left">🌱 I’m currently learning FPT University</h5>
-
-###
-
-<h5 align="left">👨🏼‍💻 working as a java developer since 2022</h5>
-
-###
-
-<h5 align="left">📫 How to reach me <i>nonghoangvu04@gmail.com</i></h5>
-
-###
-
-<h5 align="left">🎬 just started out with my youtube channel JavaTech</h5>
-
-###
-
-<h5 align="left">⚡ Fun fact I'm funny</h5>
-
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/JavaTech04/JavaTech04/output/snake.svg" alt="Snake animation" />
 
