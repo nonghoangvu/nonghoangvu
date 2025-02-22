@@ -97,11 +97,11 @@
 
 ###
 
-<p align="left">📫 How to reach me nonghoangvu04@gmail.com</p>
+<h5 align="left">📫 How to reach me <i>nonghoangvu04@gmail.com</i></h5>
 
 ###
 
-<p align="left">🎬 just started out with my youtube channel JavaTech</p>
+<h5 align="left">🎬 just started out with my youtube channel JavaTech</h5>
 
 ###
 
@@ -116,7 +116,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavaTech04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JavaTech04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavaTech04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
