@@ -1,36 +1,123 @@
-[![MasterHead](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif)](https://github.com/VuScriptMasterForge)
+<div align="center">
+  <img height="20" src="https://th.bing.com/th/id/R.c6b0cda0c4d5baf14d24f82c672a2f07?rik=j4Uyl0CnuUI%2bLg&pid=ImgRaw&r=0"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Vu</h1>
-<h3 align="center">A passionate backend developer from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vuscriptmasterforge&label=Profile%20views&color=0e75b6&style=flat" alt="vuscriptmasterforge" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+###
 
-- 🔭 I’m currently working on **FPT Software**
+<h3 align="center">Java Developer</h3>
 
-- 🌱 I’m currently learning **FPT University**
+###
 
-- 👯 I’m looking to collaborate on **Github**
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JavaTech04/count.svg?"  />
+</div>
 
-- 💬 Ask me about **Spring Boot, MySQL, SQL Server, Servlet, Hibernate, JDBC, Java Swing**
+###
 
-- 📫 How to reach me **nonghoangvu04@gmail.com**
+<h4 align="left">💻 Tech Stack:</h4>
 
-- ⚡ Fun fact **I'm funny**
+###
 
-<h3 align="left">Information:</h3>
-<p align="left">
-<a href="https://fb.com/nonghoangvu04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nonghoangvu04" height="30" width="40" /></a>
-<a href="https://instagram.com/nonghoangvu.fpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nonghoangvu.fpt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@javatech04/?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nonghoangvu.fpt" height="30" width="40" /></a>
-<a href="https://pypi.org/project/NightBat/" target="blank"><img align="center" src="https://pypi.org/static/images/logo-small.8998e9d1.svg" alt="nonghoangvu.fpt" height="30" width="40"/></a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavaTech04&show_icons=true&locale=en&layout=compact" alt="JavaTech04" /></p>
+<h4 align="left">🌎 Social network:</h4>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JavaTech04&show_icons=true&locale=en" alt="JavaTech04" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JavaTech04&" alt="vuscriptmasterforge" /></p>
+<div align="left">
+  <a href="https://www.youtube.com/@javatech04/?sub_confirmation=1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.facebook.com/NongHoangVu04" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nonghoangvu04" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/nonghoangvu04" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<h4 align="left">👨🏼‍💻 About me:</h4>
+
+###
+
+<h5 align="left">🔭 I’m currently working on FPT Software</h5>
+
+###
+
+<h5 align="left">🌱 I’m currently learning FPT University</h5>
+
+###
+
+<h5 align="left">👨🏼‍💻 working as a java developer since 2022</h5>
+
+###
+
+<p align="left">📫 How to reach me nonghoangvu04@gmail.com</p>
+
+###
+
+<p align="left">🎬 just started out with my youtube channel JavaTech</p>
+
+###
+
+<h5 align="left">⚡ Fun fact I'm funny</h5>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JavaTech04/JavaTech04/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JavaTech04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavaTech04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
