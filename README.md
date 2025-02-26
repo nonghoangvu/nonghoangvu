@@ -18,35 +18,35 @@
 
 ###
 
-<h4 align="left">👨🏼‍💻 About me:</h4>
+<h3 align="left">👨🏼‍💻 About me:</h3>
 
 ###
 
-<h5 align="left">🔭 I’m currently working on FPT Software</h5>
+<h4 align="left">🔭 I’m currently working on FPT Software</h4>
 
 ###
 
-<h5 align="left">🌱 I’m currently learning FPT University</h5>
+<h4 align="left">🌱 I’m currently learning FPT University</h4>
 
 ###
 
-<h5 align="left">👨🏼‍💻 working as a java developer since 2022</h5>
+<h4 align="left">👨🏼‍💻 working as a java developer since 2022</h4>
 
 ###
 
-<h5 align="left">📫 How to reach me <i>nonghoangvu04@gmail.com</i></h5>
+<h4 align="left">📫 Contact with me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nonghoangvu04@gmail.com">nonghoangvu04@gmail.com</a></h4>
 
 ###
 
-<h5 align="left">🎬 just started out with my youtube channel JavaTech</h5>
+<h4 align="left">🎬 just started out with my youtube channel <a href="https://www.youtube.com/@javatech04/?sub_confirmation=1">JavaTech</a></h4>
 
 ###
 
-<h5 align="left">⚡ Fun fact I'm funny</h5>
+<h4 align="left">⚡ Fun fact I'm funny</h4>
 
 ###
 
-<h4 align="left">🌎 Social network:</h4>
+<h3 align="left">🌎 Social network:</h3>
 
 ###
 
@@ -67,7 +67,7 @@
 
 ###
 
-<h4 align="left">💻 Tech Stack:</h4>
+<h3 align="left">💻 Tech Stack:</h3>
 
 ###
 
