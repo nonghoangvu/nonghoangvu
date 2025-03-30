@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Vu</h1>
+<h1 align="center">Hi 👋, I'm Nong Hoang Vu</h1>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="left">🏢 I'm currently working on AvePoint Vietnam</h4>
+<h4 align="left">🏢 I'm working on AvePoint Vietnam</h4>
 
 ###
 
