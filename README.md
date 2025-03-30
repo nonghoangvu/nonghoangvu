@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://th.bing.com/th/id/R.c6b0cda0c4d5baf14d24f82c672a2f07?rik=j4Uyl0CnuUI%2bLg&pid=ImgRaw&r=0"  />
+  <img height="200" src="https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/485765920_1861569774591623_8638549180608891914_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGlkFbxJHAtdVfIHaCTsZaDfvnQh2Qcn9N--dCHZByf0xJqh6lGO3UneTkz9zUXFmQyyAI30WQVryMfEueB9-tU&_nc_ohc=YOajkcZFJGwQ7kNvgGcyHZ2&_nc_oc=Adl_qG1Mapf8BYRGPRkNzpNko3Wx-_R14NJqs6XfQprTHsmODG-G1uiIJtEb07C_Jr8&_nc_zt=23&_nc_ht=scontent.fhan14-2.fna&_nc_gid=8NGEzFa4IiZK6bF1gKfILQ&oh=00_AYEaUUsdgYPpWh0T8NGMhcA0jr7tGwKELb8HgyV6euHhyg&oe=67EF4F2B"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Java Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 ###
 
@@ -22,27 +22,19 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working on FPT Software</h4>
+<h4 align="left">🏢 I'm currently working on AvePoint Vietnam</h4>
 
 ###
 
-<h4 align="left">🌱 I’m currently learning FPT University</h4>
+<h4 align="left">🎓 I studied at FPT University</h4>
 
 ###
 
-<h4 align="left">👨🏼‍💻 working as a java developer since 2022</h4>
+<h4 align="left">📨 Contact with me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nonghoangvu04@gmail.com">nonghoangvu04@gmail.com</a></h4>
 
 ###
 
-<h4 align="left">📫 Contact with me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nonghoangvu04@gmail.com">nonghoangvu04@gmail.com</a></h4>
-
-###
-
-<h4 align="left">🎬 just started out with my youtube channel <a href="https://www.youtube.com/@javatech04/?sub_confirmation=1">JavaTech</a></h4>
-
-###
-
-<h4 align="left">⚡ Fun fact I'm funny</h4>
+<h4 align="left">▶️ Just started out with my youtube channel <a href="https://www.youtube.com/@javatech04/?sub_confirmation=1">JavaTech</a></h4>
 
 ###
 
