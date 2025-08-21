@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/nonghoangvu/nonghoangvu/refs/heads/main/banner.png"/>
+  <img height="200" src="/cafe-banner.jpg"/>
 </div>
 
 ###
@@ -8,13 +8,7 @@
 
 ###
 
-<h3 align="center">Software Developer</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nonghoangvu/count.svg?"  />
-</div>
+<h3 align="center">Java Developer</h3>
 
 ###
 
