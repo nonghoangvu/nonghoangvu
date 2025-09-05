@@ -16,11 +16,7 @@
 
 ###
 
-<h4 align="left">🏢 I'm working on VunhCommunity Vietnam</h4>
-
-###
-
-<h4 align="left">🎓 I studied at FPT University</h4>
+<h4 align="left">🏢 I'm working on World Fusion Vietnam</h4>
 
 ###
 
