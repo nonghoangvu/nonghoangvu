@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Java Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 ###
 
@@ -24,18 +24,11 @@
 
 ###
 
-<h4 align="left">▶️ Just started out with my youtube channel <a href="https://www.youtube.com/@javatech04/?sub_confirmation=1">JavaTech</a></h4>
-
-###
-
 <h3 align="left">🌎 Social network:</h3>
 
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@javatech04/?sub_confirmation=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
   <a href="https://www.facebook.com/NongHoangVu04" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
