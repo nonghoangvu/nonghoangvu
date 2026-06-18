@@ -6,19 +6,19 @@
 
 <h1 align="center">👋 Hi, I'm Nong Hoang Vu</h1>
 
-<h3 align="center">🚀 Senior Backend Engineer | Microservices & DevOps Specialist</h3>
+<h3 align="center">🚀 Backend Engineer | Microservices & DevOps Enthusiast</h3>
 
 ---
 
 ## 👨🏼‍💻 About Me
 
-Experienced software engineer specializing in building **scalable microservices architectures** and optimizing enterprise-level systems. Proven track record delivering robust backend solutions with strong DevOps practices. Passionate about clean code, system design, and continuous learning.
+Passionate software engineer specializing in building **scalable microservices architectures** and optimizing enterprise-level systems. Committed to delivering robust backend solutions with strong DevOps practices and clean code principles.
 
 - 🏢 **Current Role:** Software Engineer at **SystemSquare Corporation**
 - 🌍 **Client Experience:** International projects including **Japanese clients**
-- 💡 **Expertise:** Microservices Architecture, Backend Development, DevOps, Cloud Infrastructure
-- 🎯 **Focus Areas:** Building reliable distributed systems, CI/CD automation, cloud deployment, security best practices
-- 📚 **Core Skills:** System design, performance optimization, enterprise application development
+- 💡 **Focus Areas:** Microservices Architecture, Backend Development, DevOps, Cloud Infrastructure
+- 🎯 **Specialties:** Building reliable distributed systems, CI/CD automation, cloud deployment, security implementation
+- 📚 **Continuous Learning:** Always exploring new technologies and best practices
 
 ---
 
@@ -45,8 +45,6 @@ Experienced software engineer specializing in building **scalable microservices 
 ### Message Brokers & Streaming
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="35" alt="kafka"/>
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zookeeper/zookeeper-plain.svg" height="35" alt="zookeeper"/>
 </div>
 
 ### Databases
@@ -108,8 +106,6 @@ Experienced software engineer specializing in building **scalable microservices 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" height="35" alt="sonarqube"/>
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plaintext.svg" height="35" alt="junit"/>
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git"/>
 </div>
 
@@ -148,25 +144,6 @@ Experienced software engineer specializing in building **scalable microservices 
 </div>
 
 ---
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="mailto:nonghoangvu04@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="38" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nonghoangvu04" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="38" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/NongHoangVu04" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="48" height="38" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/nonghoangvu04" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="38" alt="Instagram"/>
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JavaTech04/JavaTech04/output/snake.svg" alt="Snake animation"/>
